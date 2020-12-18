@@ -1,0 +1,11 @@
+**/__pycache__/
+**/*.pyc/
+**/.ok*
+**/tests/
+**/ok
+**/*.ok
+**/*.zip
+**/*.js
+**/*.png
+**/.DS_Store
+**/disc
